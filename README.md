@@ -1,5 +1,4 @@
 This is a try out project for AWS.
-This is Jacob Baer
 
 ## Available Scripts
 
